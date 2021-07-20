@@ -1,3 +1,7 @@
+텍스트마이닝
+https://drive.google.com/drive/folders/1J6p-4fpdUh2gqzVTdMrnQJ4i7UA_3BIy?usp=sharing
+
+
 MNIST
 
 https://colab.research.google.com/drive/1TWXNvNHVQE-x_rezHdJVg0gJYxGZA8uG?usp=sharing
