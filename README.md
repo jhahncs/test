@@ -1,3 +1,7 @@
+웹크롤링
+https://colab.research.google.com/drive/1vQLH8AS_yoBoMLMdBfhCpIK4Xc1HPWYR?usp=sharing
+
+
 MNIST
 
 https://colab.research.google.com/drive/1TWXNvNHVQE-x_rezHdJVg0gJYxGZA8uG?usp=sharing
